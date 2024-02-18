@@ -1,0 +1,15 @@
+Contenus envisagés
+
+---Bibiothèque en Python
+
+---Programmation Reseaux : Socket
+
+---Traitement de données
+Connexion à un serveur bdd (mysql)
+Traitement des données dans les fichiers (textes, csv, excel) (?)
+
+---Bibliothèques "scientifiques"
+
+---Big Data
+
+---HTTP request, JSON (?)

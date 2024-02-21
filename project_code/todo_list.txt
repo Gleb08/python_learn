@@ -1,3 +1,7 @@
 Creer algoritme de demarrage du choix -> machie allumé -> affichage du menu
 Lors de la selection par 'oui' ou par chiffres (de 1 à n, à toi de choisir comment selectionner) -> Afficher le produit selectionne
 Prevoir la possibilite de retour au debut du menu ou annulation du choix
+
+Pour aprentissage:
+Regarde les types de variables et comment il faut le declarer
+Regarde boucles "si", "for" , "do, while"
